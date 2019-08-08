@@ -3,6 +3,13 @@
 ## Table of Contents
 
 ## Installation
+The code should run with no issues using Python versions 3.*
+The liabriaries we need:
+- Pandas
+- Numpy
+- Seaborn
+- Sklearn
+
 
 ## Project Motivation
 
